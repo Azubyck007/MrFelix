@@ -1,0 +1,2 @@
+-- Q2: How to keep track of when a record was last modified?
+-- A2: Maybe Use an AFTER UPDATE trigger?
